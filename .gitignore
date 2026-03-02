@@ -1,0 +1,4 @@
+#git ignore
+
+#not tracking the data
+data/
